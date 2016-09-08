@@ -1,0 +1,9 @@
+C:\Users\Deniz\Desktop\FileSearch\FileSearch\obj\Debug\FileSearch.Form1.resources
+C:\Users\Deniz\Desktop\FileSearch\FileSearch\obj\Debug\FileSearch.Properties.Resources.resources
+C:\Users\Deniz\Desktop\FileSearch\FileSearch\obj\Debug\FileSearch.csproj.GenerateResource.Cache
+C:\Users\Deniz\Desktop\FileSearch\FileSearch\bin\Debug\FileSearch.exe.config
+C:\Users\Deniz\Desktop\FileSearch\FileSearch\bin\Debug\FileSearch.exe
+C:\Users\Deniz\Desktop\FileSearch\FileSearch\bin\Debug\FileSearch.pdb
+C:\Users\Deniz\Desktop\FileSearch\FileSearch\obj\Debug\FileSearch.exe
+C:\Users\Deniz\Desktop\FileSearch\FileSearch\obj\Debug\FileSearch.pdb
+C:\Users\Deniz\Desktop\FileSearch\FileSearch\obj\Debug\FileSearch.csprojResolveAssemblyReference.cache
